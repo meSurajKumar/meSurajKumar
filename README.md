@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mesuraj751@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-d-rHrFXnpRuqPyhKFHioSX6NYE2F2rt/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lvbftCEpRf6VsUTrD8SuVuRLamM55Mfo/view?usp=sharing)
 
 - ⚡ Fun fact **🤟It's Simple🤏Just Do It🤟**
 
