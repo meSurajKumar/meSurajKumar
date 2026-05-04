@@ -1,10 +1,10 @@
 <h1 align="center">Suraj Kumar</h1>
-<h3 align="center">Full-Stack Developer (Node.js | React | Databases)</h3>
+<h3 align="center">Backend Developer (Node.js | Databases)</h3>
 
 ---
 
 * 👨‍💻 Portfolio: http://suraj-kumar.in/
-* 💬 Skills: Node.js, React.js, System Design, Databases
+* 💬 Skills: Node.js, System Design, Databases
 * 📫 Email: [mesuraj751@gmail.com](mailto:mesuraj751@gmail.com)
 * 📄 Resume: https://drive.google.com/file/d/1lvbftCEpRf6VsUTrD8SuVuRLamM55Mfo/view
 
@@ -24,7 +24,6 @@
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>&nbsp;
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>&nbsp;
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>&nbsp;
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>&nbsp;
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>&nbsp;
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>&nbsp;
