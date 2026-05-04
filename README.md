@@ -1,5 +1,5 @@
 <h1 align="center">Suraj Kumar</h1>
-<h3 align="center">Backend Developer (Node.js | Databases)</h3>
+<h3 align="center">Backend Developer (Node.js)</h3>
 
 ---
 
