@@ -6,7 +6,7 @@
 * 👨‍💻 Portfolio: https://www.hisuraj.xyz/
 * 💬 Skills: Node.js, System Design, Databases
 * 📫 Email: [mesuraj751@gmail.com](mailto:mesuraj751@gmail.com)
-* 📄 Resume: https://drive.google.com/file/d/1lvbftCEpRf6VsUTrD8SuVuRLamM55Mfo/view
+* 📄 Resume: https://drive.google.com/file/d/1V6oeZkhClmtu60g2X5rCoaAHyGkEpBFa/view
 
 ---
 
